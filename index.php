@@ -116,15 +116,6 @@ unset($_SESSION['flash_success'], $_SESSION['flash_error']);
                 Sign In as Administrator
             </button>
         </form>
-
-        <!-- Test Account Helper Banner -->
-        <div class="demo-credentials-box">
-            <strong>Demo Credentials for Evaluation:</strong>
-            <div style="margin-top: 6px; font-family: monospace; font-size: 12px; line-height: 1.6;">
-                <div><strong>Student:</strong> 2024-0001 &nbsp;|&nbsp; Pass: <code>Student@123</code></div>
-                <div><strong>Admin:</strong> admin@library.edu &nbsp;|&nbsp; Pass: <code>Admin@123</code></div>
-            </div>
-        </div>
     </div>
 
     <div class="auth-footer">
